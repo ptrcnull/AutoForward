@@ -1,0 +1,6 @@
+name: AutoForward
+version: ${project.version}
+main: ml.bjorn.autoforward.AutoForward
+api-version: 1.13
+authors: [Bjornskjald]
+description: dupa
